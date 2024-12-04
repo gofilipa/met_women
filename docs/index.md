@@ -4,6 +4,7 @@ layout: default
 
 This is a repo that explores women in the MET API database.
 
+![Les saintes femmes au tombeau (Three Holy Women at the Tomb) by George Minne](./ladies.jpg)
 ...
 
 <!--
